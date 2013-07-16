@@ -74,6 +74,7 @@ MODX
 Middleman
 
 * [Middleman Skeleton](https://github.com/axyz/middleman-zurb-foundation) by [Andrea Moretti](https://twitter.com/axyz)
+* [Middleman Foundation 4.x Template](https://github.com/mattolson/middleman-zurb-template) by [Matt Olson](http://mattolson.com)
 
 Magento
 * [Magento & Foundation](https://github.com/nandroid/MagentoFoundation) by Nandroid
@@ -93,6 +94,10 @@ Shopify
 
 * [Foundationify Shopify Theme](https://github.com/lukebussey/foundationify) by Luke Bussey
 
+Silverstripe
+
+* [Foundation Silverstripe Theme](https://github.com/ryanwachtl/silverstripe-foundation) by [Ryan Wachtl](https://github.com/ryanwachtl)
+
 Orchard
 
   * [Foundation Theme for Orchard CMS](https://foundationorchardcms.codeplex.com/)
@@ -111,6 +116,10 @@ Templates
 
 * [Desktop, Tablet and Phone Grid PSD Templates](http://foundation.zurb.com/files/foundation-psd-templates.zip ) by Bruce Abel at Portfolio Creative Services Group
 * [HAML Web Templates](https://github.com/pbonnell/foundation_templates_haml) by Peter Bonnell
+
+Rapid Prototyping
+
+* [ditbi](https://github.com/roblevintennis/ditbi) by Rob Levin [4 Minute Demo Video](http://www.youtube.com/watch?v=ERgFCJFpq5E)
 
 Grid Generator
 
@@ -134,6 +143,10 @@ Yeoman Generator
 
 * [Yeoman 1.0-Foundation 4](https://github.com/lkbgift/foundation4-yeoman) by [Leonard Bogdonoff](http://twitter.com/lkbcc)
 * [Yeoman-Foundation](https://npmjs.org/package/yeoman-foundation) by Vincent Mac
+
+Meteor
+
+* [Foundation Smart Package](https://atmosphere.meteor.com/package/zurb-foundation)
 
 
 MIT Open Source License
